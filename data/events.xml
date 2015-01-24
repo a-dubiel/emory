@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+<event>
+	<day>23</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #1</title>
+	<date>Thursday, January 23 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>21</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #2</title>
+	<date>Thursday, January 21 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>19</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #3</title>
+	<date>Thursday, January 19 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>16</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #4</title>
+	<date>Thursday, January 16 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>18</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #5</title>
+	<date>Thursday, January 18 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>01</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #6</title>
+	<date>Thursday, January 01 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>07</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #7</title>
+	<date>Thursday, January 07 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>03</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #8</title>
+	<date>Thursday, January 03 - 1 PM</date>
+	<status>Open</status>
+</event>
+<event>
+	<day>30</day>
+	<image>event-icon.svg</image>
+	<month>Jan</month>
+	<title>Title of an event #9</title>
+	<date>Thursday, January 30 - 1 PM</date>
+	<status>Open</status>
+</event>
+
+</events>
